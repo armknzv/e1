@@ -1,0 +1,72 @@
+
+.aaa {
+    color: black;
+    text-align: center;
+}
+.navbar {
+    color: #000000; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание */
+    text-align: left;
+    font-size: xx-large;
+    border-bottom: #000000;
+}
+.navbar:visited {
+    color: #8504fe; /* Цвет посещённой ссылки */
+    text-align: left;
+    font-size: xx-large;
+    border-bottom: #8504fe;
+} 
+.navbar:hover {
+    color: #e247b1; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+    text-align: left;
+    font-size: xx-large;
+    border-bottom:  #e247b1;
+}
+.second {
+    color: #000000; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание */
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: #000000;
+}
+.second:visited {
+    color: #0020f3; /* Цвет посещённой ссылки */
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: #0020f3;
+
+} 
+.second:hover {
+    color: #03eac3; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: #03eac3;
+}
+.first {
+    color: #000000; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание */
+    text-align: right;
+    font-size: xx-large;
+    border-right: #000000;
+}
+.first:visited {
+    color: #cd0000; /* Цвет посещённой ссылки */
+    text-align: right;
+    font-size: xx-large;
+    border-right: #cd0000;
+} 
+.first:hover {
+    color: #551306; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+    text-align: right;
+    font-size: xx-large;
+    border-right: #551306;
+}
+.left {
+     float:left; 
+     margin: 10px 10px 10px 0; 
+     font-size: xx-large;
+    
+}
